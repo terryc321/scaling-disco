@@ -1,2 +1,7 @@
 # scaling-disco
-first test tutorial repo
+
+hi hubots,
+this is the edited readme.md file
+
+okay now what.
+
